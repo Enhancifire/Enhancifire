@@ -10,33 +10,44 @@
 
 ## [My Resume](https://enhancifire.github.io/MyResume/#/)
 
-### I'm a Flutter and Python Developer, as well as a ML Enthusiast
+### I'm a Python and Flutter Developer, as well as a ML Enthusiast
 - I am currently doing the 100 Days of Code Challenge
 - 2022 Goals: Get the Tensorflow certification
 - I am a supporter of Open Source and Open Source Projects
+- I love coding and problem solving
 
-## Languages and Tools:
-- Dart and Flutter
+## Languages:
+	
+- Python
+- Flutter
+- C and C++
+- Lua
+
+## Tools:
+
 - Python
 	- Numpy
 	- Pandas
 	- Matplotlib
-	- Flask
-	- Django
+	- Flask:
+		- Flask Restful
+		- Flask Bootstrap
+		- Flask WTForms
+	- Tkinter
 	- Turtle
 	- Requests
 	- Selenium
 	- SQLAlchemy
 	- MySQL-Connector
-
+	
+- Databases
+	- MySQL and MariaDB
+	- Firebase and Firestore
+	- MongoDB
+	
+- Dart and Flutter
 - C and C++
 - Git and Github/Gitlab
-- MySQL and MariaDB
-- Firebase and Firestore
-- MongoDB
-- Linux
+- Linux and Networking
 - Docker and Containerization
-- Networking
-- Emacs
-- Neovim and Vim
-- Visual Studio Code
+- Emacs, Vim and Neovim, Visual Studio Code
