@@ -25,29 +25,37 @@
 
 ## Tools:
 
-- Python
+- Python:
 	- Numpy
 	- Pandas
 	- Matplotlib
-	- Flask:
-		- Flask Restful
-		- Flask Bootstrap
-		- Flask WTForms
+	- Flask
 	- Tkinter
 	- Turtle
 	- Requests
 	- Selenium
 	- SQLAlchemy
-	- MySQL-Connector
+	- Seaborn
+	- Pygame
+	- Scikit Learn
+	- SMTPLib
+	- BeautifulSoup
+	- Plotly
 	
-- Databases
+- Databases:
 	- MySQL and MariaDB
 	- Firebase and Firestore
 	- MongoDB
-	
+
 - Dart and Flutter
 - C and C++
 - Git and Github/Gitlab
 - Linux and Networking
 - Docker and Containerization
 - Emacs, Vim and Neovim, Visual Studio Code
+
+- Deployment Methods:
+	- Heroku
+	- PythonAnywhere
+	- Github Pages
+
