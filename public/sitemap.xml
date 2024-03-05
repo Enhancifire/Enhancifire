@@ -2,25 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2024-03-06T02:03:19+05:30</lastmod>
+  </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2024-03-06T01:51:30+05:30</lastmod>
+    <lastmod>2024-03-06T02:03:19+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/nighters/</loc>
-    <lastmod>2024-03-06T01:51:30+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/projects/</loc>
-    <lastmod>2024-03-06T01:51:30+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/projects/engenz/</loc>
-    <lastmod>2024-03-06T01:51:25+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/projects/nomo-no-money/</loc>
-    <lastmod>2024-03-06T01:51:07+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/projects/rehnuma/</loc>
-    <lastmod>2024-03-06T01:50:28+05:30</lastmod>
+    <loc>http://localhost:1313/authors/</loc>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/series/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
   </url>

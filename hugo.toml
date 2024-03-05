@@ -1,5 +1,0 @@
-baseURL = "https://enhancifire.github.io/"
-languageCode = "en-us"
-title = "Faiz Saiyad's Blog"
-theme = "papermod"
-ignoreFiles = ['README.md', 'LICENSE', 'CONTRIBUTING.md', 'CODE_OF_CONDUCT.md', 'ISSUE_TEMPLATE.md', 'PULL_REQUEST_TEMPLATE.md']
