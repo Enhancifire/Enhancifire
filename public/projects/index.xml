@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Projects on Faiz Saiyad&#39;s Blog</title>
+    <link>http://localhost:1313/projects/</link>
+    <description>Recent content in Projects on Faiz Saiyad&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 06 Mar 2024 01:51:30 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nighters</title>
+      <link>http://localhost:1313/projects/nighters/</link>
+      <pubDate>Wed, 06 Mar 2024 01:51:30 +0530</pubDate>
+      <guid>http://localhost:1313/projects/nighters/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Engenz</title>
+      <link>http://localhost:1313/projects/engenz/</link>
+      <pubDate>Wed, 06 Mar 2024 01:51:25 +0530</pubDate>
+      <guid>http://localhost:1313/projects/engenz/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Nomo No Money</title>
+      <link>http://localhost:1313/projects/nomo-no-money/</link>
+      <pubDate>Wed, 06 Mar 2024 01:51:07 +0530</pubDate>
+      <guid>http://localhost:1313/projects/nomo-no-money/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Rehnuma</title>
+      <link>http://localhost:1313/projects/rehnuma/</link>
+      <pubDate>Wed, 06 Mar 2024 01:50:28 +0530</pubDate>
+      <guid>http://localhost:1313/projects/rehnuma/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
